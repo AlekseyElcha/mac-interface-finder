@@ -1,0 +1,2 @@
+/Users/aleksey/RiderProjects/vmInterfacesFinderForMacTerminal/vmInterfacesFinderForMacTerminal/bin/Release/net10.0/osx-arm64/publish/vmInterfacesFinderForMacTerminal.pdb
+/Users/aleksey/RiderProjects/vmInterfacesFinderForMacTerminal/vmInterfacesFinderForMacTerminal/bin/Release/net10.0/osx-arm64/publish/vmInterfacesFinderForMacTerminal

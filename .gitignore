@@ -1,0 +1,19 @@
+# Сборка и бинарники .NET
+[Bb]in/
+[Oo]bj/
+
+# Настройки Rider и Visual Studio
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Системные файлы macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Файлы инсталляторов / релизов
+*.dmg
+
